@@ -1,0 +1,9 @@
+{
+  "name": "crocodiles-wars-websocket",
+  "version": "1.2.0",
+  "private": true,
+  "description": "WebSocket server for Crocodiles Wars with public and password-protected rooms",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
