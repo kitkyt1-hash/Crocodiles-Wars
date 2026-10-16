@@ -1,2 +1,2 @@
 # Crocodiles-Wars
-My game in html
+Crocodiles Wars its my game in html good playing
